@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-<!--
-**jk2025jk/jk2025jk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+✨ _special_ 
+### jk2025jk 
 
 
 - 🔭 Ich bin auf der Suche nach einer neuen Herausforderung
